@@ -2,8 +2,6 @@
 
 I am a freshgraduate from Padang State Polytechnic
 
-Here are some ideas to get you started:
-
 - 🔭 I’m complete internship on [PT Firstwap International](https://www.1rstwap.com/)
 - 🌱 I’m currently learning about Java Back-End Engineering
 - 📫 How to reach me: annisadwif92@gmail.com
