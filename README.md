@@ -8,6 +8,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Java Back-End Engineering
 - 📫 How to reach me: annisadwif92@gmail.com
 
+### Tech Stack
+<a href="https://www.java.com/en/"><img align="left" alt="React" title="Java" width="21px" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" /></a>
+<br>
+ <br>
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/Swildz">
