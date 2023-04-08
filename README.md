@@ -7,6 +7,7 @@ I am a freshgraduate from Padang State Polytechnic
 - 📫 How to reach me: annisadwif92@gmail.com
 
 ### Tech Stack
+ <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="https://www.java.com/en/"><img align="left" alt="React" title="Java" width="21px" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" /></a>
 <br>
  <br>
